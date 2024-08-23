@@ -1,0 +1,1 @@
+from .onload_grump import play_onload_animation
